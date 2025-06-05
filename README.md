@@ -25,7 +25,8 @@ The dataset contains **50,000 entries** with the following features:
 - **Mileage** (Numerical)
 - **Price** (Target Variable)
 
-📁 File location: [`Dataset/car_sales_data_24.csv`](./Dataset/car_sales_data_24.csv)
+📁 File location: [Dataset/car_sales_data_24.csv](./Dataset/car_sales_data_24.csv)
+
 ---
 
 ## 🧠 Models & Techniques
